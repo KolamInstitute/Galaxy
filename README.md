@@ -1,4 +1,13 @@
 An HTML5 Framework for Knowledge Database Visualization based on Geographic coordinates - Community Edition
+
+> This project is intended to provide a dedicated template for open source GIS mapping solution. 
+> It is based on Leaflet.js, a lightweight library and its plugins.
+
+```html
+    <link rel="stylesheet" type="text/css" href="http://cdn.leafletjs.com/leaflet-0.5.1/leaflet.css" />
+    <script type="text/javascript" src="http://cdn.leafletjs.com/leaflet-0.5.1/leaflet.js"></script>
+```
+
 ***
 ![gowiki](http://www.kolam-institute.org/images/galaxy1logo.jpg)
 
