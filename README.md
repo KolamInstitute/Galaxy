@@ -23,8 +23,8 @@ An HTML5 Framework for Knowledge Database Visualization based on Geographic coor
 ====================================================
 
 ### Browsers Tested ###
-Internet Explorer 6-8, Firefox 3-3.6, Safari 3-4, Chrome 3-5, Opera 9.6-10.5
 
+![browsers](http://www.webapptesting.com/wp-content/uploads/2012/12/Mobile-Browsers.jpg)
 
 ====================================================
 
