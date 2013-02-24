@@ -49,29 +49,35 @@ THIS DOCUMENTATION IS IN PROGRESS !!!
 Details (related JS libraries)
 ------------------------------
 
-**Core Dependencies:**
-* `Leaflet.js` >>> https://github.com/Leaflet/Leaflet
-* `Recline.js` >>> https://github.com/okfn/recline
-* `D3.js` >>> https://github.com/mbostock/d3
-
-**UI Dependencies:**
-* `Jquery.js` >>> https://github.com/jquery/jquery
-* `Jquery Mobile.js` >>> https://github.com/jquery/jquery-mobile
-
-**Validator** 
-`Checked` ![checked](http://www.digium.com/sites/digium/files/icon-green-check.png)
+**Validator:** 
+`Implemented` ![checked](http://www.digium.com/sites/digium/files/icon-green-check.png)
 `Testing` ![testing](http://www.onlinecjc.ca/webfiles/images/icons/cog_add.png)
-`Not compatible` ![notyet](http://www.whosarrested.com/images/error.png)
+`Not yet compatible` ![notyet](http://www.whosarrested.com/images/error.png)
 
+**Core Dependencies:**
 
-| Packages     | Release | Status  | Link | Comments |
+| Core Packages| Release | Status  | Link | Comments |
 |:-------------|:-------:|:-------:|:-----|:---------|
-| `Leaflet.js` |0.5.1    |![check](http://www.digium.com/sites/digium/files/icon-green-check.png) | https://github.com/Leaflet/Leaflet| no comments yet |
-| `Recline.js` |0.7.0    |![testing](http://www.onlinecjc.ca/webfiles/images/icons/cog_add.png) | https://github.com/okfn/recline | no comments yet |
-| `D3.js`      |0.7.0    |![testing](http://www.onlinecjc.ca/webfiles/images/icons/cog_add.png) | https://github.com/mbostock/d3 | no comments yet |
+| `Leaflet.js` |0.5.1    |![check](http://www.digium.com/sites/digium/files/icon-green-check.png) | https://github.com/Leaflet/Leaflet| Map view engine |
+| `Recline.js` |0.7.0    |![testing](http://www.onlinecjc.ca/webfiles/images/icons/cog_add.png) | https://github.com/okfn/recline | Data Binding engine |
+| `D3.js`      |3.0.6    |![testing](http://www.onlinecjc.ca/webfiles/images/icons/cog_add.png) | https://github.com/mbostock/d3 | Data view engine |
+
+| UI Packages  | Release | Status  | Link | Comments |
+|:-------------|:-------:|:-------:|:-----|:---------|
+| `JQuery.js` |0.5.1    |![check](http://www.digium.com/sites/digium/files/icon-green-check.png) | https://github.com/jquery/jquery | no comments yet |
+| `JQmobile.js` |0.7.0    |![testing](http://www.onlinecjc.ca/webfiles/images/icons/cog_add.png) | https://github.com/jquery/jquery-mobile | no comments yet |
 
 
 ***
+
+| Plugins                    | Release | Status  | Link | Comments |
+|:---------------------------|:-------:|:-------:|:-----|:---------|
+| `Leaflet.markercluster.js` |0.5.1    |![check](http://www.digium.com/sites/digium/files/icon-green-check.png) | https://github.com/Leaflet/Leaflet| no comments yet |
+| `Leaflet.label.js`         |0.7.0    |![testing](http://www.onlinecjc.ca/webfiles/images/icons/cog_add.png) | https://github.com/okfn/recline | no comments yet |
+| `Leaflet.geoCSV.js`        |3.0.6    |![testing](http://www.onlinecjc.ca/webfiles/images/icons/cog_add.png) | https://github.com/mbostock/d3 | no comments yet |
+
+
+
 
 | Plugins      | Type          | release | Deploy |
 |:------------- |:-------------|:-------:|:-------:|
