@@ -68,55 +68,7 @@ At the actual stage of development, we have only integrate Leaflet into a full h
 
 **Validator** 
 `Checked` ![check](http://www.digium.com/sites/digium/files/icon-green-check.png)
-`Pending` ![check](http://i212.photobucket.com/albums/cc118/gollum-greg/icons/icon_redX.png)
-
-Development Focus (Level 1-3)
--------------------------
-<table>
-    <thead>
-        <tr>
-            <th>Level</th>
-            <th>Title</th>
-            <th>Sources</th>
-            <th>Tested</th>
-            <th>Status</th>
-            <th>Demo</th>
-            <th>Comments</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>1</td>
-            <td>Map Engine</td>
-            <td>Leaflet.js</td>
-            <td>Yes</td>
-            <td>0.4.5</td>
-            <td><a href="#" target="_blank">Run</a></td>
-            <td>Leaflet is a great lib !</td>
-        </tr>
-        <tr>
-            <td>2</td>
-            <td>Map Plugins Repo.</td>
-            <td>plugins.js</td>
-            <td>Yes</td>
-            <td>0.4.5</td>
-            <td><a href="http://archfirst.org/examples/mobile-grid-evaluation/no-framework-html-table" target="_blank">Run</a></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>3</td>
-            <td>Html5 UI</td>
-            <td>ui.css</td>
-            <td>0.9</td>
-            <td>Done</td>
-            <td><a href="http://archfirst.org/examples/mobile-grid-evaluation/no-framework-html-table-iscroll" target="_blank">Run</a></td>
-            <td>Can be replaced soon by Jquery Mobile</td>
-        </tr>
-        </tr>
-    </tbody>
-</table>
-
-
+`Pending` ![pending](http://i212.photobucket.com/albums/cc118/gollum-greg/icons/icon_redX.png)
 
 
 ***
@@ -126,10 +78,10 @@ Include (related JS libraries)
 
 
 | Packages      | Type          | release | Deploy |
-| ------------- |:-------------:| -------:|-------:|
+|:------------- |:-------------|:-------:|:-------:|
 | Leaflet    | Core          |0.5.1    |  ![check](http://www.digium.com/sites/digium/files/icon-green-check.png)|
-| Leaflet.markercluster     | Plugin           |  -- |  ![check](http://www.digium.com/sites/digium/files/icon-green-check.png)|
-| Leaflet.label    | Plugin          |   Test |  ![check](http://www.digium.com/sites/digium/files/icon-green-check.png)|
+| Leaflet.markercluster     | Plugin           |  -- | ![check](http://www.digium.com/sites/digium/files/icon-green-check.png)|
+| Leaflet.label    | Plugin          |   Test |  ![pending](http://i212.photobucket.com/albums/cc118/gollum-greg/icons/icon_redX.png)|
 | Leaflet.geoCSV    | Plugin          |   Test |  ![check](http://www.digium.com/sites/digium/files/icon-green-check.png)|
 | Proj4Leaflet    | Plugin          |   Test |  ![check](http://www.digium.com/sites/digium/files/icon-green-check.png)|
 | Leaflet.draw    | Plugin          |   Test |  ![check](http://www.digium.com/sites/digium/files/icon-green-check.png)|
