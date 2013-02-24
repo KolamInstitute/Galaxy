@@ -4,7 +4,11 @@ An HTML5 Framework for Knowledge Database Visualization based on Geographic coor
 
 > This work is a students project and it is intended to provide a dedicated template for open source GIS mapping solution. 
 It is also a cross-level relational (aka matrix) and contextual data factory and archive for research and educational contents.
-> It is based on Leaflet.js as map viewer, a lightweight library and its plugins. Just add this code to your HTML5 document header:
+> It is based on Leaflet.js as map viewer, a lightweight library and its plugins. It works with GeoJson and CSV files. 
+
+### Instructions ###
+
+> Just add this code to your HTML document header:
 
 ```html
     <link rel="stylesheet" type="text/css" href="app/galaxy-ui.css" />
@@ -56,11 +60,17 @@ to the available space in the screen or in the up-level DIV.
 
 ![gowiki](http://www.vpul.upenn.edu/gic/images/arrow2.gif)   Demo app 0.9: Coming soon !
 * * *
+
 **Goals (V1):**
 * **Data vizualisation**: JSON/CSV ([See more details](https://github.com/KolamInstitute/Galaxy-/wiki/GeoJson-specifications))
-* **Views**: Map/table/charts/timeline
-* **Screens**: desktop/tablet/smartphone
+* **Views**: Map/table
+* **Screens**: desktop/tablet
 * **Templates**: CSS themes and iconset
+
+**Goals (V2):**
+* **Data vizualisation**: SHP/PostgreSQL ([See more details](https://github.com/KolamInstitute/Galaxy-/wiki/GeoJson-specifications))
+* **Views**: Charts/timeline
+* **Screens**: smartphone
 
 ***
 
