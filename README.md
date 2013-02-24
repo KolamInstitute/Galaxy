@@ -1,3 +1,5 @@
+![logo](http://www.kolam-institute.org/images/galaxy1logo.jpg)
+
 An HTML5 Framework for Knowledge Database Visualization based on Geographic coordinates - Community Edition
 
 > This project is intended to provide a dedicated template for open source GIS mapping solution. 
@@ -15,10 +17,8 @@ An HTML5 Framework for Knowledge Database Visualization based on Geographic coor
 ```
 
 ***
-![gowiki](http://www.kolam-institute.org/images/galaxy1logo.jpg)
 
-
-![gowiki](http://www.vpul.upenn.edu/gic/images/arrow2.gif)   Documentation: https://github.com/KolamInstitute/Galaxy/wiki
+![gowiki](http://www.vpul.upenn.edu/gic/images/arrow2.gif)   See documentation: https://github.com/KolamInstitute/Galaxy/wiki
 
 
 ====================================================
@@ -118,4 +118,25 @@ Development Focus (Level 1-3)
 
 
 
+
 ***
+
+Include (related JS libraries)
+-------------------------
+
+
+| Packages      | Type          | release | Deploy |
+| ------------- |:-------------:| -------:|-------:|
+| Leaflet    | Core          |0.5.1    |  ![check](http://www.digium.com/sites/digium/files/icon-green-check.png)|
+| Leaflet.markercluster     | Plugin           |  -- |  ![check](http://www.digium.com/sites/digium/files/icon-green-check.png)|
+| Leaflet.label    | Plugin          |   Test |  ![check](http://www.digium.com/sites/digium/files/icon-green-check.png)|
+| Leaflet.geoCSV    | Plugin          |   Test |  ![check](http://www.digium.com/sites/digium/files/icon-green-check.png)|
+| Proj4Leaflet    | Plugin          |   Test |  ![check](http://www.digium.com/sites/digium/files/icon-green-check.png)|
+| Leaflet.draw    | Plugin          |   Test |  ![check](http://www.digium.com/sites/digium/files/icon-green-check.png)|
+| leaflet-search    | Plugin          |   Test |  ![check](http://www.digium.com/sites/digium/files/icon-green-check.png)|
+| OSM Buildings   | Plugin         |   Test |  ![check](http://www.digium.com/sites/digium/files/icon-green-check.png)|
+| leaflet-hash    | Plugin          |   Test |  ![check](http://www.digium.com/sites/digium/files/icon-green-check.png)|
+
+
+
+
