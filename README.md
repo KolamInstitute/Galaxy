@@ -4,7 +4,8 @@ An HTML5 Framework for Knowledge Database Visualization based on Geographic coor
 
 > This work is a students project and it is intended to provide a dedicated template for open source GIS mapping solution. 
 It is also a cross-level relational (aka matrix) and contextual data factory and archive for research and educational contents.
-> It is based on Leaflet.js as map viewer, a lightweight library and its plugins. It works with GeoJson and CSV files. 
+> It is based on Leaflet.js as map viewer, a lightweight library and its plugins. It works with GeoJson, CSV, image, local tiles, 
+and vectors layers. 
 
 ### Instructions ###
 
@@ -27,7 +28,7 @@ It is also a cross-level relational (aka matrix) and contextual data factory and
 ```html
     <script type="text/javascript" src="data/layers.js"></script>
     <script type="text/javascript" src="data/features.js"></script>
-    <script type="text/javascript" src="data/db_json.js"></script>
+    <script type="text/javascript" src="data/db.js"></script>
 ```
 > And the last step, include the container DIV where you like, it will adjust 
 to the available space in the screen or in the up-level DIV.
@@ -50,6 +51,10 @@ to the available space in the screen or in the up-level DIV.
 ![browsers](http://www.webapptesting.com/wp-content/uploads/2012/12/Mobile-Browsers.jpg)
 
 ====================================================
+
+### Test data ###
+
+> the data provided are selected to ...
 
 * * *
 [**DATA STRUCTURE**](https://github.com/KolamInstitute/Galaxy-/wiki/Development-plan) | [**LAYERING**](https://github.com/KolamInstitute/Galaxy-/wiki/Development-plan) | [**STORAGE**](https://github.com/KolamInstitute/Galaxy-/wiki/Development-plan) | [**CORE**](https://github.com/KolamInstitute/Galaxy-/wiki/Development-plan) | [**UI**](https://github.com/KolamInstitute/Galaxy-/wiki/Development-plan) | [**MODULES**](https://github.com/KolamInstitute/Galaxy-/wiki/Development-plan)
@@ -114,3 +119,4 @@ to pure html template
 | `Leaflet.hash.js`          |3.0.6    |![check](http://www.digium.com/sites/digium/files/icon-green-check.png) | https://github.com/mbostock/d3 | no comments yet |
 | `Proj4Leaflet.js`          |3.0.6    |![testing](http://www.onlinecjc.ca/webfiles/images/icons/cog_add.png) | https://github.com/mbostock/d3 | no comments yet |
 
+> The documentation is including several examples of configuration and usages.
