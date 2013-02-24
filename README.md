@@ -1,11 +1,17 @@
 An HTML5 Framework for Knowledge Database Visualization based on Geographic coordinates - Community Edition
 
 > This project is intended to provide a dedicated template for open source GIS mapping solution. 
-> It is based on Leaflet.js, a lightweight library and its plugins.
+> It is based on Leaflet.js, a lightweight library and its plugins. Just add this code to your HTML5 document header:
 
 ```html
-    <link rel="stylesheet" type="text/css" href="http://cdn.leafletjs.com/leaflet-0.5.1/leaflet.css" />
-    <script type="text/javascript" src="http://cdn.leafletjs.com/leaflet-0.5.1/leaflet.js"></script>
+    <link rel="stylesheet" type="text/css" href="app/galaxy-ui.css" />
+    <link rel="stylesheet" type="text/css" href="app/galaxy-map.css" />
+```
+
+```html
+    <script type="text/javascript" src="app/galaxy-core.js"></script>
+    <script type="text/javascript" src="app/galaxy-conf.js"></script>
+    <script type="text/javascript" src="app/galaxy-mod.js"></script>
 ```
 
 ***
