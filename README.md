@@ -9,14 +9,31 @@ It is also a cross-level relational (aka matrix) and contextual data factory and
 ```html
     <link rel="stylesheet" type="text/css" href="app/galaxy-ui.css" />
     <link rel="stylesheet" type="text/css" href="app/galaxy-map.css" />
+    <link rel="stylesheet" type="text/css" href="app/galaxy-view.css" />
 ```
+> Add Galaxy tri-core default setup files
 
 ```html
     <script type="text/javascript" src="app/galaxy-core.js"></script>
     <script type="text/javascript" src="app/galaxy-conf.js"></script>
     <script type="text/javascript" src="app/galaxy-mod.js"></script>
 ```
-THIS DOCUMENTATION IS IN PROGRESS !!!
+> And then, connect your database...
+
+```html
+    <script type="text/javascript" src="data/layers.js"></script>
+    <script type="text/javascript" src="data/features.js"></script>
+    <script type="text/javascript" src="data/db_json.js"></script>
+```
+> And the last step, include the container DIV where you like, it will adjust 
+to the available space in the screen or in the up-level DIV.
+
+
+```html
+    <div id="galaxy" class="autosize"></div>
+```
+
+**THIS DOCUMENTATION IS IN PROGRESS !!!**
 
 ***
 
