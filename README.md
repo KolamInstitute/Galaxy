@@ -64,10 +64,13 @@ Details (related JS libraries)
 `Not compatible` ![notyet](http://www.whosarrested.com/images/error.png)
 
 
-| Packages     | release | Deploy  | Link |
-|:-------------|:-------:|:-------:|:-----|
-| `Leaflet.js` |0.5.1    |![check](http://www.digium.com/sites/digium/files/icon-green-check.png) | https://github.com/Leaflet/Leaflet|
-| `Recline.js` |0.2.1    |![testing](http://www.onlinecjc.ca/webfiles/images/icons/cog_add.png) | https://github.com/okfn/recline |
+| Packages     | Release | Status  | Link | Comments |
+|:-------------|:-------:|:-------:|:-----|:---------|
+| `Leaflet.js` |0.5.1    |![check](http://www.digium.com/sites/digium/files/icon-green-check.png) | https://github.com/Leaflet/Leaflet| no comments yet |
+| `Recline.js` |0.7.0    |![testing](http://www.onlinecjc.ca/webfiles/images/icons/cog_add.png) | https://github.com/okfn/recline | no comments yet |
+| `D3.js`      |0.7.0    |![testing](http://www.onlinecjc.ca/webfiles/images/icons/cog_add.png) | https://github.com/mbostock/d3 | no comments yet |
+
+
 ***
 
 | Plugins      | Type          | release | Deploy |
