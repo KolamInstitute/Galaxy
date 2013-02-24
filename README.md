@@ -20,17 +20,7 @@ An HTML5 Framework for Knowledge Database Visualization based on Geographic coor
 
 ![gowiki](http://www.vpul.upenn.edu/gic/images/arrow2.gif)   See documentation: https://github.com/KolamInstitute/Galaxy/wiki
 
-
 ====================================================
-
-
-| Packages      | Type         | Usage  | Deploy |
-| ------------- |:-------------:| -----:|-----:|
-| Core app      | JS | Touch | YES ![check](http://www.digium.com/sites/digium/files/icon-green-check.png)|
-| UI Design    | CSS      |   Theme | YES ![check](http://www.digium.com/sites/digium/files/icon-green-check.png)|
-| Data test | JSON      |    Test | YES ![check](http://www.digium.com/sites/digium/files/icon-green-check.png)|
-
-
 
 ### Browsers Tested ###
 Internet Explorer 6-8, Firefox 3-3.6, Safari 3-4, Chrome 3-5, Opera 9.6-10.5
@@ -54,6 +44,11 @@ THIS DOCUMENTATION IS IN PROGRESS !!!
 * **Screens**: desktop/tablet/smartphone
 * **Templates**: CSS themes and iconset
 
+***
+
+Details (related JS libraries)
+------------------------------
+
 **Core Dependencies:**
 * `Leaflet.js` >>> https://github.com/Leaflet/Leaflet
 * `Recline.js` >>> https://github.com/okfn/recline
@@ -63,32 +58,28 @@ THIS DOCUMENTATION IS IN PROGRESS !!!
 * `Jquery.js` >>> https://github.com/jquery/jquery
 * `Jquery Mobile.js` >>> https://github.com/jquery/jquery-mobile
 
-**Notes:** 
-At the actual stage of development, we have only integrate Leaflet into a full html5 user inteface + some small JS code to manage contents. We are using Recline to view dataset from directories and we have tested D3 for its impressive capabilities...
-
 **Validator** 
-`Checked` ![check](http://www.digium.com/sites/digium/files/icon-green-check.png)
-`Pending` ![pending](http://i212.photobucket.com/albums/cc118/gollum-greg/icons/icon_redX.png)
+`Checked` ![checked](http://www.digium.com/sites/digium/files/icon-green-check.png)
+`Testing` ![testing](http://www.onlinecjc.ca/webfiles/images/icons/cog_add.png)
+`Not compatible` ![notyet](http://www.whosarrested.com/images/error.png)
 
 
+| Packages     | release | Deploy  | Link |
+|:-------------|:-------:|:-------:|:-----|
+| `Leaflet.js` |0.5.1    |![check](http://www.digium.com/sites/digium/files/icon-green-check.png) | https://github.com/Leaflet/Leaflet|
+| `Recline.js` |0.2.1    |![testing](http://www.onlinecjc.ca/webfiles/images/icons/cog_add.png) | https://github.com/okfn/recline |
 ***
 
-Include (related JS libraries)
--------------------------
-
-
-| Packages      | Type          | release | Deploy |
+| Plugins      | Type          | release | Deploy |
 |:------------- |:-------------|:-------:|:-------:|
-| Leaflet    | Core          |0.5.1    |  ![check](http://www.digium.com/sites/digium/files/icon-green-check.png)|
 | Leaflet.markercluster     | Plugin           |  -- | ![check](http://www.digium.com/sites/digium/files/icon-green-check.png)|
-| Leaflet.label    | Plugin          |   Test |  ![pending](http://i212.photobucket.com/albums/cc118/gollum-greg/icons/icon_redX.png)|
+| Leaflet.label    | Plugin          |   Test |  ![testing](http://www.onlinecjc.ca/webfiles/images/icons/cog_add.png)|
 | Leaflet.geoCSV    | Plugin          |   Test |  ![check](http://www.digium.com/sites/digium/files/icon-green-check.png)|
 | Proj4Leaflet    | Plugin          |   Test |  ![check](http://www.digium.com/sites/digium/files/icon-green-check.png)|
-| Leaflet.draw    | Plugin          |   Test |  ![check](http://www.digium.com/sites/digium/files/icon-green-check.png)|
-| leaflet-search    | Plugin          |   Test |  ![check](http://www.digium.com/sites/digium/files/icon-green-check.png)|
+| Leaflet.draw    | Plugin          |   Test |   ![testing](http://www.onlinecjc.ca/webfiles/images/icons/cog_add.png)|
+| leaflet-search    | Plugin          |   Test |   ![testing](http://www.onlinecjc.ca/webfiles/images/icons/cog_add.png)|
 | OSM Buildings   | Plugin         |   Test |  ![check](http://www.digium.com/sites/digium/files/icon-green-check.png)|
 | leaflet-hash    | Plugin          |   Test |  ![check](http://www.digium.com/sites/digium/files/icon-green-check.png)|
-
 
 
 
