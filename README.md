@@ -2,8 +2,9 @@
 
 An HTML5 Framework for Knowledge Database Visualization based on Geographic coordinates - Community Edition
 
-> This project is intended to provide a dedicated template for open source GIS mapping solution. 
-> It is based on Leaflet.js, a lightweight library and its plugins. Just add this code to your HTML5 document header:
+> This work is a students project and it is intended to provide a dedicated template for open source GIS mapping solution. 
+It is also a cross-level relational (aka matrix) and contextual data factory and archive for research and educational contents.
+> It is based on Leaflet.js as map viewer, a lightweight library and its plugins. Just add this code to your HTML5 document header:
 
 ```html
     <link rel="stylesheet" type="text/css" href="app/galaxy-ui.css" />
@@ -15,6 +16,7 @@ An HTML5 Framework for Knowledge Database Visualization based on Geographic coor
     <script type="text/javascript" src="app/galaxy-conf.js"></script>
     <script type="text/javascript" src="app/galaxy-mod.js"></script>
 ```
+THIS DOCUMENTATION IS IN PROGRESS !!!
 
 ***
 
@@ -28,7 +30,6 @@ An HTML5 Framework for Knowledge Database Visualization based on Geographic coor
 
 ====================================================
 
-THIS DOCUMENTATION IS IN PROGRESS !!!
 * * *
 [**DATA STRUCTURE**](https://github.com/KolamInstitute/Galaxy-/wiki/Development-plan) | [**LAYERING**](https://github.com/KolamInstitute/Galaxy-/wiki/Development-plan) | [**STORAGE**](https://github.com/KolamInstitute/Galaxy-/wiki/Development-plan) | [**CORE**](https://github.com/KolamInstitute/Galaxy-/wiki/Development-plan) | [**UI**](https://github.com/KolamInstitute/Galaxy-/wiki/Development-plan) | [**MODULES**](https://github.com/KolamInstitute/Galaxy-/wiki/Development-plan)
 
