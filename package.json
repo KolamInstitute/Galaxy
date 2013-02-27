@@ -1,0 +1,14 @@
+{
+  "name": "galaxy",
+  "version": "0.8.4",
+  "description": "Framework for Knowledge Database Visualization based on Geographic coordinates",
+  "author": "uriel deveaud",
+  "keywords": ["geo", "map", "community", "framework"],
+  "main": "",
+  "volo": {
+    "url": ""
+  },
+  "scripts": {
+    "test": ""
+  }
+}
