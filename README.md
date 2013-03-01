@@ -1,4 +1,4 @@
-![logo](http://www.kolam-institute.org/images/galaxy1logo.jpg)
+![logo](http://www.kolam-institute.org/galaxy/galaxy_logo_2013_small.jpg)
 
 An HTML5 Framework for Knowledge Database Visualization based on Geographic coordinates - Community Edition
 
