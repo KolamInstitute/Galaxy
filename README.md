@@ -12,30 +12,29 @@ and vectors layers.
 > Just add this code to your HTML document header:
 
 ```html
-    <link rel="stylesheet" type="text/css" href="app/galaxy-ui.css" />
-    <link rel="stylesheet" type="text/css" href="app/galaxy-map.css" />
-    <link rel="stylesheet" type="text/css" href="app/galaxy-view.css" />
+    <link rel="stylesheet" type="text/css" href="app/galaxy-theme.css" /> // UI design
+    <link rel="stylesheet" type="text/css" href="app/galaxy-views.css" /> // map, grid...
 ```
 > Add Galaxy tri-core default setup files
 
 ```html
-    <script type="text/javascript" src="app/galaxy-core.js"></script>
-    <script type="text/javascript" src="app/galaxy-conf.js"></script>
-    <script type="text/javascript" src="app/galaxy-mod.js"></script>
+    <script type="text/javascript" src="app/galaxy-core.js"></script> // include dependencies
+    <script type="text/javascript" src="app/galaxy-conf.js"></script> // user settings
 ```
 > And then, connect your database...
 
 ```html
-    <script type="text/javascript" src="data/layers.js"></script>
-    <script type="text/javascript" src="data/features.js"></script>
-    <script type="text/javascript" src="data/db.js"></script>
+    <script type="text/javascript" src="data/layers.js"></script> // user layers def.
+    <script type="text/javascript" src="data/features.js"></script> // user actions
+    <script type="text/javascript" src="data/localdb.js"></script> // path to json/csv files and tiles
+    <script type="text/javascript" src="data/serverdb.js"></script> // server storage connection
 ```
 > And the last step, include the container DIV where you like, it will adjust 
 to the available space in the screen or in the up-level DIV.
 
 
 ```html
-    <div id="galaxy" class="autosize"></div>
+    <div id="galaxy" class="autosize"></div> <!-- Html DIV -->
 ```
 
 **THIS DOCUMENTATION IS IN PROGRESS !!!**
