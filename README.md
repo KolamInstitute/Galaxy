@@ -46,6 +46,12 @@ to the available space in the screen or in the up-level DIV.
 
 ====================================================
 
+### Files structure ###
+
+![files](http://www.kolam-institute.org/galaxy/files_Git.jpg)
+
+> The main application is located in its own folder, separated from the data...
+
 ### Browsers Tested ###
 
 ![browsers](http://www.webapptesting.com/wp-content/uploads/2012/12/Mobile-Browsers.jpg)
