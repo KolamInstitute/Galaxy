@@ -15,7 +15,7 @@ and vectors layers.
     <link rel="stylesheet" type="text/css" href="app/galaxy-theme.css" /> // UI design
     <link rel="stylesheet" type="text/css" href="app/galaxy-views.css" /> // map, grid...
 ```
-> Add Galaxy tri-core default setup files
+> Add Galaxy default setup files
 
 ```html
     <script type="text/javascript" src="app/galaxy-core.js"></script> // include dependencies
