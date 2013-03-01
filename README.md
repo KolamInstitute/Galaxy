@@ -48,7 +48,7 @@ to the available space in the screen or in the up-level DIV.
 
 ### Files structure ###
 
-![files](http://www.kolam-institute.org/galaxy/files_Git.jpg)
+![files](http://www.kolam-institute.org/galaxy/Files_Git.jpg)
 
 > The main application is located in its own folder, separated from the data...
 
