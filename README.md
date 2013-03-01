@@ -37,7 +37,7 @@ to the available space in the screen or in the up-level DIV.
     <div id="galaxy" class="autosize"></div> <!-- Html DIV -->
 ```
 
-**THIS DOCUMENTATION IS IN PROGRESS !!!**
+###THIS DOCUMENTATION IS IN PROGRESS !!!
 
 ***
 
